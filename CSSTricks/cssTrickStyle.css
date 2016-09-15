@@ -8,11 +8,17 @@
   height: auto;
 }
 
+.main-content-right {
+  float: right;
+  width: 40%;
+  height: auto;
+}
+
 .box {
   background-color: white;
   width: 80%;
   height: auto;
-  padding: 3px;
+  padding: 10px;
   margin: 10px 0px 10px 10px;
   border-radius: 5px;
 }
