@@ -1,0 +1,30 @@
+.wrapper {
+  display: block;
+}
+
+.main-content-left {
+  float: left;
+  width: 60%;
+  height: auto;
+}
+
+.box {
+  background-color: white;
+  width: 80%;
+  height: auto;
+  padding: 3px;
+  margin: 10px 0px 10px 10px;
+  border-radius: 5px;
+}
+
+body {
+  background-color: black;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  color: red;
+}
