@@ -1,0 +1,11 @@
+body {
+
+}
+
+.navbar {
+  background-color: black;
+}
+
+.main-nav li {
+  float: left;
+}
